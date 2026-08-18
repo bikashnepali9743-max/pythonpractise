@@ -7,7 +7,7 @@ print("Choose operation:")
 print("1. Add")
 print("2. Sub")
 print("3. Mult")
-print("4. Div")
+print("4. Division")
 
 choice = input("Enter choice (1/2/3/4): ")
 
