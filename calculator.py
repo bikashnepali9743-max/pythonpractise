@@ -4,10 +4,10 @@ num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
 print("Choose operation:")
-print("1. Addition")
-print("2. Subtraction")
-print("3. Multiplication")
-print("4. Division")
+print("1. Add")
+print("2. Sub")
+print("3. Mult")
+print("4. Div")
 
 choice = input("Enter choice (1/2/3/4): ")
 
